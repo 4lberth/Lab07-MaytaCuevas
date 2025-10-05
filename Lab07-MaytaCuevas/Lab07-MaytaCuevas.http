@@ -1,0 +1,6 @@
+@Lab07_MaytaCuevas_HostAddress = http://localhost:5245
+
+GET {{Lab07_MaytaCuevas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
